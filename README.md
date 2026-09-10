@@ -58,7 +58,7 @@ For code that isn't necessarily running on the robot but needs to be kept in the
 ### License
 This template repository is licensed under the MIT License to clearly define how anyone can copy and use this repository! Although, the license would copy over to your new repository, so feel free to change it! Just remember to change the copyright notice!
 
-<img width="295" height="151" alt="image" src="https://github.com/user-attachments/assets/b7a5bacf-24a3-420e-ae9f-23bca1bdff04" />
+<img width="306" height="145" alt="image" src="https://github.com/user-attachments/assets/034f879a-9fc3-441d-bc1e-d61335de1e45" />
 
 > The copyright notice to change
 
