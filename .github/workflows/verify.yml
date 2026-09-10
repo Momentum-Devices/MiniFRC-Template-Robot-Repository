@@ -11,6 +11,7 @@ on:
     paths:
       - 'src/**'
       - '.github/workflows/verify.yml'
+  workflow_dispatch: 
 
 jobs:
   compile:
@@ -53,6 +54,7 @@ jobs:
           arduino-cli lib install "Alfredo-NoU3"
           arduino-cli lib install "PestoLink-Receive"
           arduino-cli lib install "HCSRO4_attachInterrupt"
+          arduino-cli lib install "VL53L0X"
 
 
       - name: Restructure and Flatten for Arduino
