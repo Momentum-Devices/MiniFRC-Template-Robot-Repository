@@ -46,6 +46,7 @@ For code verification, there are a couple of non-arduino libraries that have bee
 - [Alfredo-NoU3](https://github.com/AlfredoSystems/Alfredo-NoU3) || By Alfredo Systems
 - [PestoLink-Recieve](https://github.com/AlfredoSystems/PestoLink-Receive) || By Alfredo Systems
 - [HCSRO4_attachInterrupt](https://github.com/joshua-8/HCSRO4_attachInterrupt) || By Joshua Phelps
+- [VL53L0X](https://github.com/pololu/vl53l0x-arduino) || By Pololu
 
 > [!NOTE]
 > Need help with custom and .ZIP libraries? Find me on the MiniFRC Discord or check out how I did it [here](https://github.com/Turtlerock0010/ADD-VI/blob/main/.github/workflows/verify.yml)!
